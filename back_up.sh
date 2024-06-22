@@ -2,8 +2,9 @@
 
 #!/bin/bash
 
+#### Variables for back-up directory and source directory have been added below####
 backup_dir="/tmp/backup"
-source_dir="/home/uche/my_repo_training/source"
+source_dir="$HOME/my_repo_training/source"
 
 ###create back up directory###
 
